@@ -1,6 +1,6 @@
 # Nextcloud
 
-This is a tutorial about how i created a nextcloud "cloud" server on my home network for people to store their files and documents online while its safe.
+This is a tutorial about how i created a nextcloud "cloud" server on my home network for people to safely store their files and documents.
 
 # LINKS
 
