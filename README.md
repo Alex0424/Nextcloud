@@ -1,5 +1,9 @@
 # Nextcloud
 
+This is a tutorial about how i created a nextcloud "cloud" server on my home network for people to store their files and documents online while its safe.
+
+# LINKS
+
 I have followed the “centos 8 example install” from Nextcloud's official website:
 
 https://docs.nextcloud.com/server/latest/admin_manual/installation/example_centos.html
